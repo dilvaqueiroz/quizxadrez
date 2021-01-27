@@ -1,0 +1,43 @@
+{
+    "bg": "https://images6.alphacoders.com/458/458136.jpg",
+    "title": "Quiz Xadrez da Alura",
+    "description": "Teste os seus conhecimentos sobre Xadrez e vamos ver quantos xeques mates você irá levar",
+    "questions": [
+      {
+        "image": "https://64.media.tumblr.com/tumblr_m2a1xl2SYi1r7dme3o1_500.gif",
+        "title": "Para realizar um mate com apenas dois bispos é necessário impor o rei adversário a quê?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          "Desistir",
+          "Ir para um dos cantos do tabuleiro",
+          "Levar sempre xeques",
+          "Nenhuma das alternativas"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/tumblr_md51etXzYH1qgnct1o1_500.gif",
+        "title": "Em que consiste a captura en passant",
+        "description": "Quero ver saber essa",
+        "answer": 0,
+        "alternatives": [
+           "Peão que pode capturar outro peão em seu primeiro lance;",
+           "Peão que come voltando casas para trás;"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#C0C0C0",
+        "mainBg": "#1C1C1C",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
