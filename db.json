@@ -10,8 +10,8 @@
         "answer": 2,
         "alternatives": [
           "Desistir",
-          "Ir para um dos cantos do tabuleiro",
           "Levar sempre xeques",
+          "Ir para um dos cantos do tabuleiro",
           "Nenhuma das alternativas"
         ]
       },
