@@ -27,7 +27,9 @@
       }
     ],
     "external": [
-      ""
+      "https://brasilidadesquiz.mathtzt.vercel.app/",
+      "https://warrior-nun-quiz.nayaraholanda.vercel.app/",
+      "https://demon-slayer-quiz.hugos94.vercel.app/"
     ],
     "theme": {
       "colors": {
