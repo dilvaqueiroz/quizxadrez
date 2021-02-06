@@ -9,6 +9,7 @@
     "lint": "eslint ./ --fix"
   },
   "dependencies": {
+    "core-js": "^2.6.12",
     "framer-motion": "^3.2.2-rc.1",
     "next": "latest",
     "react": "^16.8.0",
